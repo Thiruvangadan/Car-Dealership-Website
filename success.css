@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 110px;
+    background-color: rgb(223, 208, 186);
+}
+.popup-content{
+    width: 326px;
+    height: 408px;
+    background: aliceblue;
+    box-shadow: 4px 4px 70px 10px rgb(0 0 0/11%);
+    border-radius: 25px;
+}
+.imgbox{
+    text-align: center;
+}
+.img{
+    width: 112px;
+    margin-top: 40px;
+}
+.title{
+font-weight: 500;
+font-size: 24px;
+   letter-spacing: 0.05em;
+   text-align: center;
+   margin: auto;
+}
+
+.para{
+    font-weight: 500;
+    width: 80%;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    margin:auto;
+}
+
