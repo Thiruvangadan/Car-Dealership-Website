@@ -22,7 +22,7 @@ Responsive design
 
 Installation:
 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Thiruvangadan/Car-Dealership-Website.git
 
 Setup the Database:
 Open XAMPP and start Apache and MySQL.
