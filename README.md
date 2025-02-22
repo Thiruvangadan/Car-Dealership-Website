@@ -1,26 +1,26 @@
 # Car-Dealership-Website
-Description
+Description:
 This is a web-based car dealership platform built using HTML, CSS, PHP, MySQL, and JavaScript. It allows users to browse available cars, register/login, and interact with the system. There is also an admin page that helps manage car parts and cars efficiently.
 
-Technologies Used
+Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL
 
-Database Structure
+Database Structure:
 Database Name: login-register
 Tables:
 user - Stores user details (ID, Name, Email, PhoneNumber, Password).
 admin - Stores admin details (ID, Email, Password).
 parts - Stores information about available car parts (ID, Name, Type. Price, Image).
 
-Features
+Features:
 User authentication (Login/Register)
 Admin dashboard for managing cars and users
 Car listing and details page
 Responsive design
 
-Installation
+Installation:
 Clone the repository:
 git clone https://github.com/your-username/your-repo.git
 
